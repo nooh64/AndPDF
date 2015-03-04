@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndPDF2.iml" filepath="$PROJECT_DIR$/AndPDF2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andpdf/andpdf.iml" filepath="$PROJECT_DIR$/andpdf/andpdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/example.iml" filepath="$PROJECT_DIR$/app/example.iml" />
+    </modules>
+  </component>
+</project>
+
